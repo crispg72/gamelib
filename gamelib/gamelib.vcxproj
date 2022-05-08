@@ -21,12 +21,10 @@
   <ItemGroup>
     <ClInclude Include="..\src\framework.h" />
     <ClInclude Include="..\src\gamelib.h" />
-    <ClInclude Include="..\src\pch.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\src\gamelib.cpp" />
     <ClCompile Include="..\src\game_main.cpp" />
-    <ClCompile Include="..\src\pch.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
